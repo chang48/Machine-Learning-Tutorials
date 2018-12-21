@@ -5,3 +5,4 @@ that use Jupyter's [nbview](https://nbviewer.jupyter.org/) to render the
 notebooks. 
 
 1. [Ensemble Learning](https://nbviewer.jupyter.org/github/chang48/Machine-Learning-notes/blob/master/Ensemble-Learning.ipynb)
+2. [Deep Learning 01: Neural Network basics](https://nbviewer.jupyter.org/github/chang48/Machine-Learning-study-notes/blob/master/DeepLearning-01-Neural-Network-Basics.ipynb)
