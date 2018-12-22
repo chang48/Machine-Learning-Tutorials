@@ -9,3 +9,4 @@ provided in the following.
 1. [Ensemble Learning](https://nbviewer.jupyter.org/github/chang48/Machine-Learning-notes/blob/master/Ensemble-Learning.ipynb)
 2. [Deep Learning 01: Neural Networks - Basics](https://nbviewer.jupyter.org/github/chang48/Machine-Learning-study-notes/blob/master/DeepLearning-01-Neural-Networks-Basics.ipynb)
 3. [Deep Learning 02: Neural Networks - Backpropagation](https://nbviewer.jupyter.org/github/chang48/Machine-Learning-study-notes/blob/master/DeepLearning-02-Neural-Networks-Backpropagation.ipynb)
+4. [Deep Learning 03: Neural Networks - Practical Advices](https://nbviewer.jupyter.org/github/chang48/Machine-Learning-study-notes/blob/master/DeepLearning-03-Neural-Networks-Practical-Advices.ipynb)
