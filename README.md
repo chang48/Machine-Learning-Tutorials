@@ -20,13 +20,14 @@ if you somehow decided to explore the field of Data Science and Machine Learning
 - Aurélien Géron: Hands-On Machine Learning with Scikit-Learn and TensorFlow
 - Francois Chollet: Deep Learning with Python
 
-Both authors are experts in the field of machine learning. Using production-ready
-Scikit-Learn and TensorFlow, Aurélien's book first covers traditional learning algorithms
-such as Logistic Regression, Support Vector Machine, Decision Tree, Ensemble Learning, 
-and Dimensionality Reduction. The second part of Aurélien's book focuses on deep learning.
-Here he first explores neural network basics, then dive into convolutional neural 
-networks, recurrent neural networks, and deep reinforcement learning.
-``Hands-on'' gives pretty good code examples. 
+Using production-ready Scikit-Learn and TensorFlow, Aurélien's book first covers 
+traditional learning algorithms such as Logistic Regression, Support Vector Machine, 
+Decision Tree, Ensemble Learning, and Dimensionality Reduction. The second part of 
+Aurélien's book focuses on deep learning. Here he first explores neural network basics, 
+then dive into convolutional neural networks, recurrent neural networks, and deep 
+reinforcement learning. ``Hands-on'' gives pretty good code examples and _just enough_
+theoretical backgrounds for those who are interested in what's happening in the
+algorithms under the hood. 
 
 Francois is the author of Keras, a high-level, super flexible, and super user-friendly 
 TensorFlow API. The beauty of Keras is that it not only allows you to painlessly build 
