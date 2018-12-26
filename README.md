@@ -10,5 +10,5 @@ provided in the following.
 2. [Deep Learning 01: Neural Networks - Basics](https://nbviewer.jupyter.org/github/chang48/Machine-Learning-study-notes/blob/master/DeepLearning-01-Neural-Networks-Basics.ipynb)
 3. [Deep Learning 02: Neural Networks - Backpropagation](https://nbviewer.jupyter.org/github/chang48/Machine-Learning-study-notes/blob/master/DeepLearning-02-Neural-Networks-Backpropagation.ipynb)
 4. [Deep Learning 03: Neural Networks - Practical Advices](https://nbviewer.jupyter.org/github/chang48/Machine-Learning-study-notes/blob/master/DeepLearning-03-Neural-Networks-Practical-Advices.ipynb)
-5. [Deep Learning 04: Convolutional Neural Network](https://nbviewer.jupyter.org/github/chang48/Machine-Learning-study-notes/blob/master/DeepLearning-04-Convolutional-Neural-Networks.ipynb) - Github completely messes up the animated GIF in the notebook. Use this nbview version.
+5. [Deep Learning 04: Convolutional Neural Network](https://nbviewer.jupyter.org/github/chang48/Machine-Learning-study-notes/blob/master/DeepLearning-04-Convolutional-Neural-Networks.ipynb)
 6. [Deep Learning 05: CNN in action: the MNIST challenge](https://nbviewer.jupyter.org/github/chang48/Machine-Learning-study-notes/blob/master/DeepLearning-05-CNN-MNIST.ipynb)
