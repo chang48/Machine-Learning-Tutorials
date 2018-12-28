@@ -33,9 +33,8 @@ of Artificial Intelligence/Deep Learning over the entire book. I find his though
 quite insightful.
 
 I write these notes in order to prepare myself for a career transition. They are
-definitely not to be used to replace the books the lectures. But if you find these
-notes helpful in your journey to machine learning, feel free to use them and your
-feedbacks are welcome.
+definitely not to be used to replace the books and lectures. But if you find these
+notes helpful in your journey to machine learning, feel free to use them.
 
 Thanks, and happy learning!
 
