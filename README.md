@@ -12,6 +12,7 @@ provided in the following.
 5. [Deep Learning 04: Convolutional Neural Network](https://nbviewer.jupyter.org/github/chang48/Machine-Learning-study-notes/blob/master/DeepLearning-04-Convolutional-Neural-Networks.ipynb)
 6. [Deep Learning 05: CNN in action: the MNIST challenge](https://nbviewer.jupyter.org/github/chang48/Machine-Learning-study-notes/blob/master/DeepLearning-05-CNN-MNIST.ipynb)
 7. [Deep Learning 06: Recurrent Neural Networks](https://nbviewer.jupyter.org/github/chang48/Machine-Learning-study-notes/blob/master/DeepLearning-06-Recurrent-Neural-Networks.ipynb)
+8. [Deep Learning 07: Working with text data](https://nbviewer.jupyter.org/github/chang48/Machine-Learning-study-notes/blob/master/DeepLearning-07-Working-With-Text-Data.ipynb)
 
 I use the following books as my primary study materials
 
