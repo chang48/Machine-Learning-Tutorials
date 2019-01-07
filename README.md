@@ -13,6 +13,7 @@ provided in the following.
 6. [Deep Learning 05: CNN in action: the MNIST challenge](https://nbviewer.jupyter.org/github/chang48/Machine-Learning-study-notes/blob/master/DeepLearning-05-CNN-MNIST.ipynb)
 7. [Deep Learning 06: Recurrent Neural Networks](https://nbviewer.jupyter.org/github/chang48/Machine-Learning-study-notes/blob/master/DeepLearning-06-Recurrent-Neural-Networks.ipynb)
 8. [Deep Learning 07: Working with text data](https://nbviewer.jupyter.org/github/chang48/Machine-Learning-study-notes/blob/master/DeepLearning-07-Working-With-Text-Data.ipynb)
+9. [Deep Learning 08: Classifying IMDB movie reviews using RNNs and a 1D CNN](https://nbviewer.jupyter.org/github/chang48/Machine-Learning-study-notes/blob/master/DeepLearning-08-IMDB-review-classification.ipynb)
 
 I use the following books as my primary study materials
 
